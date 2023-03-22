@@ -65,7 +65,9 @@ Scrum’un günümüzde en çok kullanılan yöntem olma sebepleri; Yüksek esne
 
 Hangi projede hangi modeli kullanmalıyım?
 1-Bir yaşam döngüsü modeli seçmeden önce bu metodolojileri iyi tanımalı avantaj ve dezavantajlarını bilmeliyiz.
+
 2- Takım arkadaşlarının endişelerini, kabiliyetlerini, iş önceliklerini, gereksinimlerini iyi değerlendirmeliyiz.
+
 3- Hangi modeli kullanacağımıza karar verirken bağımsız değişkenlerden faydalanabiliriz;
 -	Proje ekibimize uygun mu
 -	Kullanacağımız proje için uygun mu
