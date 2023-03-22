@@ -1,0 +1,1 @@
+# Yazilim-Yasam-Dongusu-Modeller
